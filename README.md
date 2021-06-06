@@ -1,4 +1,6 @@
 # Facebook
+
+"fb-clone"
 Cloning Facebook using React.js (Code Along Project)
 
 Tech used here:
@@ -11,3 +13,7 @@ Tech used here:
 6. Firebase Hosting
 7. Firebase Google Authentication
 8. React flip move
+
+"fb-clone-2"
+Cloning Facebook using Next.js , Tailwind CSS, Image Uploading, Facebook Login(Code Along Project)
+Fully respponsive build
